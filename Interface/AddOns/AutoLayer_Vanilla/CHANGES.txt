@@ -1,0 +1,10 @@
+lightweight tag 13cbac92f9011313400b495c13ceb189146d8109 1.7.3-release
+Author:	GitHub <noreply@github.com>
+Date:	Sat Jan 31 11:31:41 2026 +0100
+
+commit 4023a14aea52e5fa537f8f7b226aef57eb7b49fa
+Author: Jan Dorsman <160809113+jdorsman@users.noreply.github.com>
+Date:   Tue Jan 27 20:15:16 2026 +0100
+
+    Mute extra sounds for Blood Elf and Draenei
+

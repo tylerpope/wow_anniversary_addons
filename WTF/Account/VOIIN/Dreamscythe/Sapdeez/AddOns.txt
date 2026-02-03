@@ -1,0 +1,13 @@
+BagBrother: enabled
+Bagnon: enabled
+Bagnon_Bank: enabled
+Bagnon_Config: enabled
+DBM-Core: enabled
+DBM-GUI: enabled
+DBM-StatusBarTimers: enabled
+DBM-VPVEM: enabled
+Auctionator: enabled
+Bartender4: enabled
+Questie: enabled
+Blizzard_ObjectiveTracker: enabled
+Blizzard_CompactRaidFrames: enabled

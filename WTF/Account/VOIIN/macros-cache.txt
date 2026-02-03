@@ -1,0 +1,14 @@
+VER 3 0000000000000005 "MH Poison" "134767"
+/use Instant Poison II
+/use 16
+END
+VER 3 0000000000000006 "OH Poision" "134718"
+/use Deadly Poison
+/use 17
+END
+VER 3 0000000000000008 "Tar" "135805"
+/tar urs
+END
+VER 3 0000000000000007 "Thanks" "236314"
+/thanks
+END
