@@ -10,52 +10,26 @@ local ipairs = _G.ipairs
 -- ----------------------------------------------------------------------------
 local addonname = ...
 
------------------------------------------------------------------------
--- AddOn version handling (fixed)
------------------------------------------------------------------------
-
-local GetAddOnMetadata = C_AddOns.GetAddOnMetadata
+local GetAddOnMetadata = C_AddOns and C_AddOns.GetAddOnMetadata or _G.GetAddOnMetadata
 local addonVersion = GetAddOnMetadata(addonname, "Version")
-
--- Dev fallback when packaged version not replaced
-if addonVersion == string.format("@%s@", "project-version") then
-	addonVersion = "v99.99.9999-dev"
-end
-
--- Supports:
--- v2.5.5.12131
--- v99.99.9999-dev
--- v1.2.3-beta
-local major, minor, patch, buildOrTag = string.match(addonVersion, "^v(%d+)%.(%d+)%.(%d+)%.([%w%-]+)$")
-
--- Safety fallback
-if not major then
-	major, minor, patch, buildOrTag = "0", "0", "0", "0"
-end
-
-local versionT = { major, minor, patch, buildOrTag }
-
--- Build sortable numeric revision from major.minor.patch only
--- MM mm pppp bbbbb -> 2.5.5.123456 => 2 5 5 123456 => 255123456
+if addonVersion == string.format("@%s@", "project-version") then addonVersion = "v99.99.9999-dev" end
+local versionT = { string.match(addonVersion, "v(%d+)%.(%d+)%.(%d+)%-?(%a*)(%d*)") }
 local addonRevision = ""
-
--- major, minor, patch
-for k = 1, 4 do
-	local v = versionT[k]
-	addonRevision = addonRevision .. v
+for k,v in ipairs(versionT) do
+	if k < 4 then
+		local it = k == 3 and (4 - #v) or (2 - #v)
+		for i = 1, it do
+			versionT[k] = "0"..versionT[k]
+		end
+		addonRevision = addonRevision..versionT[k]
+	end
 end
-
-addonRevision = tonumber(addonRevision) or 0
 
 _G.AtlasLoot = {
-	__addonrevision = addonRevision,
-
-	__addonversion = (buildOrTag == "dev")
-		and ("dev-" .. (GetServerTime() or 0))
-		or addonVersion,
-
-	IsDevVersion  = (buildOrTag == "dev")   and true or nil,
-	IsTestVersion = (buildOrTag == "beta" or buildOrTag == "alpha") and true or nil,
+	__addonrevision = tonumber(addonRevision),
+	__addonversion = versionT[4] == "dev" and "dev-"..(GetServerTime() or 0) or addonVersion,
+	IsDevVersion = versionT[4] == "dev" and true or nil,
+	IsTestVersion = (versionT[4] == "beta" or versionT[4] == "alpha") and true or nil,
 }
 
 local AddonNameVersion = string.format("%s-%d", addonname, _G.AtlasLoot.__addonrevision)
@@ -67,41 +41,41 @@ local MainMT = {
 setmetatable(_G.AtlasLoot, MainMT)
 
 -- DB
-AtlasLootClassicDB                        = {}
+AtlasLootClassicDB = {}
 
 -- Translations
-_G.AtlasLoot.Locale                       = {}
+_G.AtlasLoot.Locale = {}
 
 -- Init functions
-_G.AtlasLoot.Init                         = {}
+_G.AtlasLoot.Init = {}
 
 -- Data table
-_G.AtlasLoot.Data                         = {}
+_G.AtlasLoot.Data = {}
 
 -- Version
-local WOW_PROJECT_ID                      = _G.WOW_PROJECT_ID or 99
-local WOW_PROJECT_MAINLINE                = _G.WOW_PROJECT_MAINLINE or 99
-local WOW_PROJECT_CLASSIC                 = _G.WOW_PROJECT_CLASSIC or 1
+local WOW_PROJECT_ID = _G.WOW_PROJECT_ID or 99
+local WOW_PROJECT_MAINLINE = _G.WOW_PROJECT_MAINLINE or 99
+local WOW_PROJECT_CLASSIC = _G.WOW_PROJECT_CLASSIC or 1
 local WOW_PROJECT_BURNING_CRUSADE_CLASSIC = _G.WOW_PROJECT_BURNING_CRUSADE_CLASSIC or 2
-local WOW_PROJECT_WRATH_CLASSIC           = _G.WOW_PROJECT_WRATH_CLASSIC or 11
+local WOW_PROJECT_WRATH_CLASSIC = _G.WOW_PROJECT_WRATH_CLASSIC or 11
 
-AtlasLoot.RETAIL_VERSION_NUM              = 99
-AtlasLoot.CLASSIC_VERSION_NUM             = 1
-AtlasLoot.BC_VERSION_NUM                  = 2
-AtlasLoot.WRATH_VERSION_NUM               = 3
+AtlasLoot.RETAIL_VERSION_NUM 	= 99
+AtlasLoot.CLASSIC_VERSION_NUM 	= 1
+AtlasLoot.BC_VERSION_NUM 		= 2
+AtlasLoot.WRATH_VERSION_NUM 	= 3
 
-AtlasLoot.GAME_VERSION_TEXTURES           = {
-	[AtlasLoot.CLASSIC_VERSION_NUM] = C_Seasons.GetActiveSeason() == 2 and 6366097 or 538639,
+AtlasLoot.GAME_VERSION_TEXTURES = {
+	[AtlasLoot.CLASSIC_VERSION_NUM] = 538639,
 	[AtlasLoot.BC_VERSION_NUM] = 131194,
 	[AtlasLoot.WRATH_VERSION_NUM] = 235509,
 }
 
-AtlasLoot.IS_CLASSIC                      = false
-AtlasLoot.IS_BC                           = false
-AtlasLoot.IS_WRATH                        = false
-AtlasLoot.IS_RETAIL                       = false
+AtlasLoot.IS_CLASSIC = false
+AtlasLoot.IS_BC = false
+AtlasLoot.IS_WRATH = false
+AtlasLoot.IS_RETAIL = false
 
-local CurrentGameVersion                  = AtlasLoot.RETAIL_VERSION_NUM
+local CurrentGameVersion = AtlasLoot.RETAIL_VERSION_NUM
 if WOW_PROJECT_ID == WOW_PROJECT_MAINLINE then
 	CurrentGameVersion = AtlasLoot.RETAIL_VERSION_NUM
 	AtlasLoot.IS_RETAIL = true

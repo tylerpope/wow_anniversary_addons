@@ -6,6 +6,11 @@ local AL = AtlasLoot.Locales
 local GetAlTooltip = AtlasLoot.Tooltip.GetTooltip
 local Profession = AtlasLoot.Data.Profession
 
+--lua
+local str_match = string.match
+local GetSpellInfo, GetSpellTexture = GetSpellInfo, GetSpellTexture
+local GetTradeskillLink = AtlasLoot.TooltipScan.GetTradeskillLink
+
 local ProfClickHandler = nil
 
 local PROF_COLOR = "|cffffff00"
@@ -27,10 +32,10 @@ AtlasLoot.ClickHandler:Add(
 		},
 	},
 	{
-		{ "ChatLink",       AL["Chat Link"],         AL["Add profession link into chat"] },
-		{ "DressUp",        AL["Dress up"],          AL["Shows the item in the Dressing room"] },
-		{ "ShowExtraItems", AL["Show extra items"],  AL["Shows extra items (tokens,mats)"] },
-		{ "WoWHeadLink",    AL["Show WowHead link"], AL["Shows a copyable link for WoWHead"] },
+		{ "ChatLink", 		AL["Chat Link"], 			AL["Add profession link into chat"] },
+		{ "DressUp", 		AL["Dress up"], 			AL["Shows the item in the Dressing room"] },
+		{ "ShowExtraItems", AL["Show extra items"], 	AL["Shows extra items (tokens,mats)"] },
+		{ "WoWHeadLink", 	AL["Show WowHead link"], 	AL["Shows a copyable link for WoWHead"] },
 	}
 )
 
@@ -39,8 +44,8 @@ function Prof.OnSet(button, second)
 		ProfClickHandler = AtlasLoot.ClickHandler:GetHandler("Profession")
 
 		-- create item colors
-		for i = 0, 7 do
-			local _, _, _, itemQuality = C_Item.GetItemQualityColor(i)
+		for i=0,7 do
+			local _, _, _, itemQuality = GetItemQualityColor(i)
 			ITEM_COLORS[i] = itemQuality
 		end
 	end
@@ -96,14 +101,14 @@ function Prof.OnMouseAction(button, mouseButton)
 		if button.SpellID then
 			AtlasLoot.Button:AddChatLink(Profession.GetChatLink(button.SpellID))
 		elseif button.ItemID and button.type ~= "secButton" then
-			local itemInfo, itemLink = C_Item.GetItemInfo(button.ItemID)
+			local itemInfo, itemLink = GetItemInfo(button.ItemID)
 			AtlasLoot.Button:AddChatLink(itemLink)
 		end
 	elseif mouseButton == "WoWHeadLink" then
 		AtlasLoot.Button:OpenWoWHeadLink(button, "spell", button.SpellID)
 	elseif mouseButton == "DressUp" then
 		if button.ItemID then
-			local itemInfo, itemLink = C_Item.GetItemInfo(button.ItemID)
+			local itemInfo, itemLink = GetItemInfo(button.ItemID)
 			if itemLink then
 				DressUpItemLink(itemLink)
 			end
@@ -118,15 +123,14 @@ end
 
 -- TODO: Add Query?
 function Prof.Refresh(button)
-	local temp = C_Spell.GetSpellInfo(button.SpellID)
-	local spellName, spellTexture = temp.name, temp.iconID
+	local spellName, _, spellTexture = GetSpellInfo(button.SpellID)
 
 	if Profession.IsProfessionSpell(button.SpellID) then
 		local _, itemName, itemQuality, itemTexture, itemCount
 		button.ItemID = Profession.GetCreatedItemID(button.SpellID)
 		button.filterItemID = button.ItemID
 		if button.ItemID then
-			itemName, _, itemQuality, _, _, _, _, _, _, itemTexture = C_Item.GetItemInfo(button.ItemID)
+			itemName, _, itemQuality, _, _, _, _, _, _, itemTexture = GetItemInfo(button.ItemID)
 			if not itemName then
 				ItemQuery:Add(button)
 				return false
@@ -168,10 +172,11 @@ function Prof.Refresh(button)
 		--Profession.GetPhaseTextureForSpellID(spellID)
 		button.icon:SetTexture(itemTexture or Profession.GetIcon(button.SpellID) or spellTexture)
 	end
+
 end
 
 --[[
 function Prof.GetStringContent(str)
 	return {str_match(str, "(%w+):(%d+)")}
 end
-]] --
+]]--

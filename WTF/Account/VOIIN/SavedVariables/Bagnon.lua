@@ -5,13 +5,7 @@ Bagnon_Sets = {
 },
 ["global"] = {
 ["inventory"] = {
-["rules"] = {
-["sidebar"] = {
-"all",
-"normal",
-"trade",
-},
-},
+["brokerObject"] = "BagnonLauncher",
 ["point"] = "BOTTOMRIGHT",
 ["color"] = {
 },
@@ -21,7 +15,13 @@ Bagnon_Sets = {
 },
 ["activeRules"] = {
 },
-["brokerObject"] = "BagnonLauncher",
+["rules"] = {
+["sidebar"] = {
+"all",
+"normal",
+"trade",
+},
+},
 },
 ["vault"] = {
 ["rules"] = {
@@ -43,16 +43,7 @@ Bagnon_Sets = {
 },
 ["guild"] = {
 ["y"] = 314.2012939453125,
-["rules"] = {
-["sidebar"] = {
-"all",
-"tradegoods",
-"consumable",
-"armor",
-"questitem",
-"miscellaneous",
-},
-},
+["x"] = 606.5800170898438,
 ["point"] = "BOTTOMLEFT",
 ["borderColor"] = {
 },
@@ -60,18 +51,6 @@ Bagnon_Sets = {
 },
 ["activeRules"] = {
 },
-["x"] = 606.5800170898438,
-},
-["bank"] = {
-["y"] = -276.7012329101563,
-["x"] = 95.00000762939453,
-["point"] = "TOPLEFT",
-["borderColor"] = {
-},
-["color"] = {
-},
-["activeRules"] = {
-},
 ["rules"] = {
 ["sidebar"] = {
 "all",
@@ -83,39 +62,60 @@ Bagnon_Sets = {
 },
 },
 },
+["bank"] = {
+["y"] = -276.7012329101563,
+["rules"] = {
+["sidebar"] = {
+"all",
+"tradegoods",
+"consumable",
+"armor",
+"questitem",
+"miscellaneous",
+},
+},
+["point"] = "TOPLEFT",
+["borderColor"] = {
+},
+["color"] = {
+},
+["activeRules"] = {
+},
+["x"] = 95.00000762939453,
+},
 },
 ["customRules"] = {
 },
 ["color"] = {
 ["quiver"] = {
 },
-["account"] = {
+["herb"] = {
 },
-["enchant"] = {
+["normal"] = {
 },
 ["soul"] = {
 },
-["fridge"] = {
+["inscribe"] = {
 },
 ["mine"] = {
 },
-["engineer"] = {
+["gem"] = {
 },
 ["leather"] = {
 },
-["reagent"] = {
+["fridge"] = {
 },
-["gem"] = {
+["engineer"] = {
 },
 ["key"] = {
 },
 ["tackle"] = {
 },
-["inscribe"] = {
+["reagent"] = {
 },
-["normal"] = {
+["enchant"] = {
 },
-["herb"] = {
+["account"] = {
 },
 },
 ["display"] = {

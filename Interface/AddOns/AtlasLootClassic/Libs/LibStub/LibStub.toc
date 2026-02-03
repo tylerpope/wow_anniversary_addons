@@ -7,4 +7,3 @@
 ## X-License: Public Domain
 
 LibStub.lua
-
