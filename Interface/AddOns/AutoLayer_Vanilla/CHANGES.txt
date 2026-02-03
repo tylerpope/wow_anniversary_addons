@@ -1,10 +1,59 @@
-lightweight tag 13cbac92f9011313400b495c13ceb189146d8109 1.7.3-release
+lightweight tag 39f542b6273acbc8685e518d0de0ec5e34d43eb1 1.7.4-release
 Author:	GitHub <noreply@github.com>
-Date:	Sat Jan 31 11:31:41 2026 +0100
+Date:	Sun Feb 1 02:41:00 2026 +0100
 
-commit 4023a14aea52e5fa537f8f7b226aef57eb7b49fa
+commit d2057912c5514e6ddd0e4c9fdc92fd2565d32d09
+Author: Jungle <67191369+Jungleonly1740@users.noreply.github.com>
+Date:   Sat Jan 31 18:08:38 2026 +0100
+
+    fix bug found while testing
+    
+    - fixed bug with channel join logic
+
+commit d2057912c5514e6ddd0e4c9fdc92fd2565d32d09
+Author: Jungle <67191369+Jungleonly1740@users.noreply.github.com>
+Date:   Sat Jan 31 18:08:38 2026 +0100
+
+    fix bug found while testing
+    
+    - fixed bug with channel join logic
+
+commit daaf3cda27b5a99fe99fd994864057d8838e1b8b
+Author: Jungle <67191369+Jungleonly1740@users.noreply.github.com>
+Date:   Sat Jan 31 15:52:11 2026 +0100
+
+    Add static "layer" fallback channel, remove retry logic
+    
+    - Join static "layer" + 3 dynamic channels (4 total)
+    - Only attempt each channel once per session (no retries)
+    - Reduces password popup spam from 3x to 1x per protected channel
+
+commit e36b8634168f489ab95f1ae77baff40898ee1cb7
 Author: Jan Dorsman <160809113+jdorsman@users.noreply.github.com>
-Date:   Tue Jan 27 20:15:16 2026 +0100
+Date:   Sat Jan 31 14:41:48 2026 +0100
 
-    Mute extra sounds for Blood Elf and Draenei
+    Bump version
+
+commit e36b8634168f489ab95f1ae77baff40898ee1cb7
+Author: Jan Dorsman <160809113+jdorsman@users.noreply.github.com>
+Date:   Sat Jan 31 14:41:48 2026 +0100
+
+    Bump version
+
+commit 2cc9523866e30c5680c8b1aaad1e7d9164c2613d
+Author: Jungle <67191369+Jungleonly1740@users.noreply.github.com>
+Date:   Sat Jan 31 13:01:52 2026 +0100
+
+    Add dynamic channel names with date-based hashing
+    
+    - Channel names now use hash of realm+date (e.g., layer62e20711)
+    - Channels change daily, preventing griefers from pre-claiming them
+    - Auto-cleanup of old layer channels from previous days
+    - Fallback to static channels if LibDeflate unavailable
+
+commit 5d26df63c88dc64fcbc8531b5dd766f0bd83e5ea
+Author: Jungle <67191369+Jungleonly1740@users.noreply.github.com>
+Date:   Sat Jan 31 12:03:05 2026 +0100
+
+    Add fallback layer channels (layer2, layer3) to prevent griefing
 
