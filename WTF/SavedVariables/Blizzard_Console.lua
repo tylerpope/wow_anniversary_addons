@@ -1,201 +1,1066 @@
 
 Blizzard_Console_SavedVars = {
 ["version"] = 3,
+["height"] = 300,
 ["messageHistory"] = {
 {
-"Skill 129 increased from 100 to 101",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 101 to 102",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 102 to 103",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 103 to 104",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 104 to 105",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 105 to 106",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 106 to 107",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 99, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 107 to 108",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 124, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 108 to 109",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 109 to 110",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 110 to 111",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 111 to 112",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 112 to 113",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 113 to 114",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 114 to 115",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 13, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 115 to 116",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 135, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 116 to 117",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 117 to 118",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 118 to 119",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 119 to 120",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 120 to 121",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 121 to 122",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 122 to 123",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 13, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 123 to 124",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 135, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 124 to 125",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 125 to 126",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 126 to 127",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 127 to 128",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 128 to 129",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 129 to 130",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 130 to 131",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 13, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 131 to 132",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 135, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 132 to 133",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 133 to 134",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 134 to 135",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 135 to 136",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 136 to 137",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 137 to 138",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 138 to 139",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 13, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 139 to 140",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 135, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 140 to 141",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 141 to 142",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 142 to 143",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 143 to 144",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 144 to 145",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 145 to 146",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 146 to 147",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 13, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 147 to 148",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 135, which is wrong",
 0,
 },
 {
-"Skill 129 increased from 148 to 149",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9330, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9330, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9330, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9330, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9330, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9330, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9330, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9330, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9330, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9330, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9330, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9330, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9330, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9330, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9330, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9330, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14027, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9330, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9330, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9330, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9330, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15807, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15807, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18050, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18050, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 21362, effect aura: 85, which is wrong",
+0,
+},
+{
+"Skill 95 increased from 314 to 315",
+0,
+},
+{
+"Skill 220 increased from 320 to 325",
+0,
+},
+{
+"Skill 613 increased from 320 to 325",
+0,
+},
+{
+"Skill 183 increased from 320 to 325",
+0,
+},
+{
+"Skill 56 increased from 320 to 325",
+0,
+},
+{
+"Skill 78 increased from 320 to 325",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.300000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
@@ -207,7 +1072,23 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Skill 129 increased from 149 to 150",
+"Weather changed to 1, intensity 0.300000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.300000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.300000\n",
 0,
 },
 {
@@ -231,7 +1112,59 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
+"Weather changed to 1, intensity 0.300000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.300000\n",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 13881, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 13881, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18038, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18038, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 13881, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 13881, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18038, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18038, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 13881, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 13881, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18038, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18038, effect aura: 13, which is wrong",
 0,
 },
 {
@@ -244,654 +1177,6 @@ Blizzard_Console_SavedVars = {
 },
 {
 "Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Skill 129 increased from 150 to 151",
-0,
-},
-{
-"Skill 129 increased from 151 to 152",
-0,
-},
-{
-"Skill 129 increased from 152 to 153",
-0,
-},
-{
-"Skill 129 increased from 153 to 154",
-0,
-},
-{
-"Skill 129 increased from 154 to 155",
-0,
-},
-{
-"Skill 129 increased from 155 to 156",
-0,
-},
-{
-"Skill 129 increased from 156 to 157",
-0,
-},
-{
-"Skill 129 increased from 157 to 158",
-0,
-},
-{
-"Skill 129 increased from 158 to 159",
-0,
-},
-{
-"Skill 129 increased from 159 to 160",
-0,
-},
-{
-"Skill 129 increased from 160 to 161",
-0,
-},
-{
-"Skill 129 increased from 161 to 162",
-0,
-},
-{
-"Skill 129 increased from 162 to 163",
-0,
-},
-{
-"Skill 129 increased from 163 to 164",
-0,
-},
-{
-"Skill 129 increased from 164 to 165",
-0,
-},
-{
-"Skill 129 increased from 165 to 166",
-0,
-},
-{
-"Skill 129 increased from 166 to 167",
-0,
-},
-{
-"Skill 129 increased from 167 to 168",
-0,
-},
-{
-"Skill 129 increased from 168 to 169",
-0,
-},
-{
-"Skill 129 increased from 169 to 170",
-0,
-},
-{
-"Skill 129 increased from 170 to 171",
-0,
-},
-{
-"Skill 129 increased from 171 to 172",
-0,
-},
-{
-"Skill 129 increased from 172 to 173",
-0,
-},
-{
-"Skill 129 increased from 173 to 174",
-0,
-},
-{
-"Skill 129 increased from 174 to 175",
-0,
-},
-{
-"Skill 129 increased from 175 to 176",
-0,
-},
-{
-"Skill 129 increased from 176 to 177",
-0,
-},
-{
-"Skill 129 increased from 177 to 178",
-0,
-},
-{
-"Skill 129 increased from 178 to 179",
-0,
-},
-{
-"Skill 129 increased from 179 to 180",
-0,
-},
-{
-"Skill 129 increased from 180 to 181",
-0,
-},
-{
-"Skill 129 increased from 181 to 182",
-0,
-},
-{
-"Skill 129 increased from 182 to 183",
-0,
-},
-{
-"Skill 129 increased from 183 to 184",
-0,
-},
-{
-"Skill 129 increased from 184 to 185",
-0,
-},
-{
-"Skill 129 increased from 185 to 186",
-0,
-},
-{
-"Skill 129 increased from 186 to 187",
-0,
-},
-{
-"Skill 129 increased from 187 to 188",
-0,
-},
-{
-"Skill 129 increased from 188 to 189",
-0,
-},
-{
-"Skill 129 increased from 189 to 190",
-0,
-},
-{
-"Skill 129 increased from 190 to 191",
-0,
-},
-{
-"Skill 129 increased from 191 to 192",
-0,
-},
-{
-"Skill 129 increased from 192 to 193",
-0,
-},
-{
-"Skill 129 increased from 193 to 194",
-0,
-},
-{
-"Skill 129 increased from 194 to 195",
-0,
-},
-{
-"Skill 129 increased from 195 to 196",
-0,
-},
-{
-"Skill 129 increased from 196 to 197",
-0,
-},
-{
-"Skill 129 increased from 197 to 198",
-0,
-},
-{
-"Skill 129 increased from 198 to 199",
-0,
-},
-{
-"Skill 129 increased from 199 to 200",
-0,
-},
-{
-"Skill 129 increased from 200 to 201",
-0,
-},
-{
-"Skill 129 increased from 201 to 202",
-0,
-},
-{
-"Skill 129 increased from 202 to 203",
-0,
-},
-{
-"Skill 129 increased from 203 to 204",
-0,
-},
-{
-"Skill 129 increased from 204 to 205",
-0,
-},
-{
-"Skill 129 increased from 205 to 206",
-0,
-},
-{
-"Skill 129 increased from 206 to 207",
-0,
-},
-{
-"Skill 129 increased from 207 to 208",
-0,
-},
-{
-"Skill 129 increased from 208 to 209",
-0,
-},
-{
-"Skill 129 increased from 209 to 210",
-0,
-},
-{
-"Skill 129 increased from 210 to 211",
-0,
-},
-{
-"Skill 129 increased from 211 to 212",
-0,
-},
-{
-"Skill 129 increased from 212 to 213",
-0,
-},
-{
-"Skill 129 increased from 213 to 214",
-0,
-},
-{
-"Skill 129 increased from 214 to 215",
-0,
-},
-{
-"Skill 129 increased from 215 to 216",
-0,
-},
-{
-"Skill 129 increased from 216 to 217",
-0,
-},
-{
-"Skill 129 increased from 217 to 218",
-0,
-},
-{
-"Skill 129 increased from 218 to 219",
-0,
-},
-{
-"Skill 129 increased from 219 to 220",
-0,
-},
-{
-"Skill 129 increased from 220 to 221",
-0,
-},
-{
-"Skill 129 increased from 221 to 222",
-0,
-},
-{
-"Skill 129 increased from 222 to 223",
-0,
-},
-{
-"Skill 129 increased from 223 to 224",
-0,
-},
-{
-"Skill 129 increased from 224 to 225",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.500000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.500000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 7597, effect aura: 189, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 23727, effect aura: 189, which is wrong",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9343, effect aura: 13, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9343, effect aura: 135, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 21619, effect aura: 85, which is wrong",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
 0,
 },
 {
@@ -900,286 +1185,6 @@ Blizzard_Console_SavedVars = {
 },
 {
 "-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Time played:",
-0,
-},
-{
-"Total: 4d 13h 38m 19s",
-0,
-},
-{
-"Level: 4d 4h 57m 27s",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Sorting particles normally.",
-0,
-},
-{
-"Multithreaded rendering enabled.",
-0,
-},
-{
-"Multithreaded BeginDraw enabled.",
-0,
-},
-{
-"Multithread shadows changed to 1.",
-0,
-},
-{
-"Multithreaded prepass enabled.",
-0,
-},
-{
-"Multithreaded opaque pass enabled.",
-0,
-},
-{
-"Multithreaded opaque pass enabled.",
-0,
-},
-{
-"Multithreaded alpha M2 pass enabled.",
-0,
-},
-{
-"Multithreaded opaque WMO pass enabled.",
-0,
-},
-{
-"Multithreaded terrain pass enabled.",
-0,
-},
-{
-"Multithreaded volumetric fog enabled.",
-0,
-},
-{
-"Multithreaded Refraction Pass enabled.",
-0,
-},
-{
-"Multithreaded miscellaneous passes enabled.",
-0,
-},
-{
-"Multithreaded decal passes disabled.",
-0,
-},
-{
-"Multithreaded outline passes enabled.",
-0,
-},
-{
-"Multithreaded lightshaft passes enabled.",
-0,
-},
-{
-"Multithreaded alpha pass enabled.",
-0,
-},
-{
-"Multithreaded daynight update enabled.",
-0,
-},
-{
-"Water detail changed to 2",
-0,
-},
-{
-"Ripple detail changed to 1",
-0,
-},
-{
-"Reflection mode changed to 0",
-0,
-},
-{
-"Reflection downscale changed to 0",
-0,
-},
-{
-"Sunshafts quality changed to 1",
-0,
-},
-{
-"Projected textures enabled.",
-0,
-},
-{
-"Shadow mode changed to 2 - 2 band dynamic shadows on units and terrain, 1024",
-0,
-},
-{
-"Shadow texture size changed to 1024.",
-0,
-},
-{
-"Soft shadows changed to 0.",
-0,
-},
-{
-"Shadow cascade blending changed to 0",
-0,
-},
-{
-"Number of shadow cascades changed to 2",
-0,
-},
-{
-"Shadow RT mode changed to 0 (Disabled)",
-0,
-},
-{
-"maxLightCount must be in range 0 to 32.",
-0,
-},
-{
-"CVar 'maxLightCount' failed validation for its initial value.",
-0,
-},
-{
-"Clustered shading enabled.",
-0,
-},
-{
-"Not forcing clustered shading.",
-0,
-},
-{
-"SSAO mode set to 2",
-0,
-},
-{
-"SSAO type set to 0",
-0,
-},
-{
-"SkyCloudLOD set to 0",
-0,
-},
-{
-"Texture filtering mode updated.",
-0,
-},
-{
-"Terrain mip level changed to 0.",
-0,
-},
-{
-"Render scale changed to 1",
-0,
-},
-{
-"Resample quality changed to 3",
-0,
-},
-{
-"MSAA disabled",
-0,
-},
-{
-"MSAA for alpha-test enabled.",
-0,
-},
-{
-"VALAR mode changed to 0",
-0,
-},
-{
-"lodObjectSizeScale cannot be changed.",
-0,
-},
-{
-"dynamicLod enabled",
-0,
-},
-{
-"World preload object sort enabled.",
-0,
-},
-{
-"World load object sort enabled.",
-0,
-},
-{
-"World preload non critical enabled.",
-0,
-},
-{
-"World preload high res textures enabled.",
-0,
-},
-{
-"Terrain Blend Bake disabled.",
-0,
-},
-{
-"Terrain Unlit shader disabled.",
-0,
-},
-{
-"FFX: Color Blind Test Mode Disabled",
-0,
-},
-{
-"Error display disabled",
-0,
-},
-{
-"Error display shown",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Now filtering: all messages",
-0,
-},
-{
-"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"ChromaEffects disabled",
-0,
-},
-{
-"NetClient::HandleConnect()\n",
-0,
-},
-{
-"Got new connection 2",
-0,
-},
-{
-"[WowEntitlements] [BNetAccount-0-0000031CC835] [WowAccount-0-0000004652DA] Initialized with 11 entitlements.",
 0,
 },
 {
@@ -1195,7 +1200,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Proficiency in item class 4 set to 0x0000000021",
+"Proficiency in item class 4 set to 0x0000000200",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000221",
 0,
 },
 {
@@ -1203,31 +1212,27 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000084010",
+"Proficiency in item class 4 set to 0x0000000225",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x0000000023",
+"Proficiency in item class 4 set to 0x0000000265",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000184010",
+"Proficiency in item class 4 set to 0x0000000267",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000184410",
+"Proficiency in item class 2 set to 0x0000004410",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000018c410",
+"Proficiency in item class 2 set to 0x0000004410",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000018c410",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000023",
+"Proficiency in item class 4 set to 0x0000000267",
 0,
 },
 {
@@ -1235,687 +1240,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 2/1/2026 (Sun) 6:57",
+"Time set to 2/8/2026 (Sun) 23:24",
 0,
 },
 {
 "Gamespeed set from 0.017 to 0.017",
-0,
-},
-{
-"Time played:",
-0,
-},
-{
-"Total: 4d 13h 39m 32s",
-0,
-},
-{
-"Level: 4d 4h 58m 40s",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Skill 129 increased from 225 to 226",
-0,
-},
-{
-"Skill 129 increased from 226 to 227",
-0,
-},
-{
-"Skill 129 increased from 227 to 228",
-0,
-},
-{
-"Skill 129 increased from 228 to 229",
-0,
-},
-{
-"Skill 129 increased from 229 to 230",
-0,
-},
-{
-"Skill 129 increased from 230 to 231",
-0,
-},
-{
-"Skill 129 increased from 231 to 232",
-0,
-},
-{
-"Skill 129 increased from 232 to 233",
-0,
-},
-{
-"Skill 129 increased from 233 to 234",
-0,
-},
-{
-"Skill 129 increased from 234 to 235",
-0,
-},
-{
-"Skill 129 increased from 235 to 236",
-0,
-},
-{
-"Skill 129 increased from 236 to 237",
-0,
-},
-{
-"Skill 129 increased from 237 to 238",
-0,
-},
-{
-"Skill 129 increased from 238 to 239",
-0,
-},
-{
-"Skill 129 increased from 239 to 240",
-0,
-},
-{
-"Skill 129 increased from 240 to 241",
-0,
-},
-{
-"Skill 129 increased from 241 to 242",
-0,
-},
-{
-"Skill 129 increased from 242 to 243",
-0,
-},
-{
-"Skill 129 increased from 243 to 244",
-0,
-},
-{
-"Skill 129 increased from 244 to 245",
-0,
-},
-{
-"Skill 129 increased from 245 to 246",
-0,
-},
-{
-"Skill 129 increased from 246 to 247",
-0,
-},
-{
-"Skill 129 increased from 247 to 248",
-0,
-},
-{
-"Skill 129 increased from 248 to 249",
-0,
-},
-{
-"Skill 129 increased from 249 to 250",
-0,
-},
-{
-"Skill 129 increased from 250 to 251",
-0,
-},
-{
-"Skill 129 increased from 251 to 252",
-0,
-},
-{
-"Skill 129 increased from 252 to 253",
-0,
-},
-{
-"Skill 129 increased from 253 to 254",
-0,
-},
-{
-"Skill 129 increased from 254 to 255",
-0,
-},
-{
-"Skill 129 increased from 255 to 256",
-0,
-},
-{
-"Skill 129 increased from 256 to 257",
-0,
-},
-{
-"Skill 129 increased from 257 to 258",
-0,
-},
-{
-"Skill 129 increased from 258 to 259",
-0,
-},
-{
-"Skill 129 increased from 259 to 260",
-0,
-},
-{
-"Skill 129 increased from 260 to 261",
-0,
-},
-{
-"Skill 129 increased from 261 to 262",
-0,
-},
-{
-"Skill 129 increased from 262 to 263",
-0,
-},
-{
-"Skill 129 increased from 263 to 264",
-0,
-},
-{
-"Skill 129 increased from 264 to 265",
-0,
-},
-{
-"Skill 129 increased from 265 to 266",
-0,
-},
-{
-"Skill 129 increased from 266 to 267",
-0,
-},
-{
-"Skill 129 increased from 267 to 268",
-0,
-},
-{
-"Skill 129 increased from 268 to 269",
-0,
-},
-{
-"Skill 129 increased from 269 to 270",
-0,
-},
-{
-"Skill 129 increased from 270 to 271",
-0,
-},
-{
-"Skill 129 increased from 271 to 272",
-0,
-},
-{
-"Skill 129 increased from 272 to 273",
-0,
-},
-{
-"Skill 129 increased from 273 to 274",
-0,
-},
-{
-"Skill 129 increased from 274 to 275",
-0,
-},
-{
-"Skill 129 increased from 275 to 276",
-0,
-},
-{
-"Skill 129 increased from 276 to 277",
-0,
-},
-{
-"Skill 129 increased from 277 to 278",
-0,
-},
-{
-"Skill 129 increased from 278 to 279",
-0,
-},
-{
-"Skill 129 increased from 279 to 280",
-0,
-},
-{
-"Skill 129 increased from 280 to 281",
-0,
-},
-{
-"Skill 129 increased from 281 to 282",
-0,
-},
-{
-"Skill 129 increased from 282 to 283",
-0,
-},
-{
-"Skill 129 increased from 283 to 284",
-0,
-},
-{
-"Skill 129 increased from 284 to 285",
-0,
-},
-{
-"Skill 129 increased from 285 to 286",
-0,
-},
-{
-"Skill 129 increased from 286 to 287",
-0,
-},
-{
-"Skill 129 increased from 287 to 288",
-0,
-},
-{
-"Skill 129 increased from 288 to 289",
-0,
-},
-{
-"Skill 129 increased from 289 to 290",
-0,
-},
-{
-"Skill 129 increased from 290 to 291",
-0,
-},
-{
-"Skill 129 increased from 291 to 292",
-0,
-},
-{
-"Skill 129 increased from 292 to 293",
-0,
-},
-{
-"Skill 129 increased from 293 to 294",
-0,
-},
-{
-"Skill 129 increased from 294 to 295",
-0,
-},
-{
-"Skill 129 increased from 295 to 296",
-0,
-},
-{
-"Skill 129 increased from 296 to 297",
-0,
-},
-{
-"Skill 129 increased from 297 to 298",
-0,
-},
-{
-"Skill 129 increased from 298 to 299",
-0,
-},
-{
-"Skill 129 increased from 299 to 300",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.500000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.500000\n",
-0,
-},
-{
-"Weather changed to 3, intensity 0.300000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 3, intensity 0.300000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer aborted (reason: 30)",
-0,
-},
-{
-"World transfer aborted (reason: 30)",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9408, effect aura: 135, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9408, effect aura: 13, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9417, effect aura: 13, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9417, effect aura: 135, which is wrong",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer aborted (reason: 30)",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
@@ -2243,7 +1572,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 2/1/2026 (Sun) 11:07",
+"Time set to 2/9/2026 (Mon) 8:18",
 0,
 },
 {
@@ -2251,15 +1580,2259 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time played:",
+"Got new connection 3",
 0,
 },
 {
-"Total: 4d 16h 15m 20s",
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
-"Level: 4d 7h 34m 28s",
+"Weather changed to 1, intensity 0.300000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.300000\n",
+0,
+},
+{
+"Skill 228 increased from 309 to 310",
+0,
+},
+{
+"Skill 95 increased from 315 to 316",
+0,
+},
+{
+"Skill 228 increased from 310 to 311",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18378, effect aura: 85, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18378, effect aura: 85, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 44893, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18378, effect aura: 85, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18378, effect aura: 85, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18378, effect aura: 85, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18378, effect aura: 85, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18378, effect aura: 85, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18378, effect aura: 85, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18378, effect aura: 85, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18378, effect aura: 85, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18378, effect aura: 85, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18378, effect aura: 85, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18378, effect aura: 85, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18378, effect aura: 85, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18378, effect aura: 85, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15715, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18378, effect aura: 85, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 99, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14049, effect aura: 124, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 26395, effect aura: 135, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18384, effect aura: 189, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
+0,
+},
+{
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
+0,
+},
+{
+"Skill 95 increased from 316 to 317",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
@@ -2275,126 +3848,6 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15696, effect aura: 135, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15696, effect aura: 13, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 21625, effect aura: 85, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15696, effect aura: 135, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15696, effect aura: 13, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 21625, effect aura: 85, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15696, effect aura: 135, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15696, effect aura: 13, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 21625, effect aura: 85, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15696, effect aura: 135, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15696, effect aura: 13, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 21625, effect aura: 85, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
-0,
-},
-{
-"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
 "World transfer pending...",
 0,
 },
@@ -2415,11 +3868,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
+"Weather changed to 1, intensity 0.300000\n",
 0,
 },
 {
@@ -2427,1215 +3876,111 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
+"Weather changed to 1, intensity 0.300000\n",
 0,
 },
 {
-"Got new connection 3",
+"Skill 228 increased from 311 to 312",
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
+"Skill 228 increased from 312 to 313",
 0,
 },
 {
-"Got new connection 3",
+"Skill 228 increased from 313 to 314",
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 13, which is wrong",
 0,
 },
 {
-"Got new connection 3",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14799, effect aura: 135, which is wrong",
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 13, which is wrong",
 0,
 },
 {
-"-------------------------------------------------- Previous Session --------------------------------------------------",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14055, effect aura: 135, which is wrong",
 0,
 },
 {
-"-------------------------------------------------- Previous Session --------------------------------------------------",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14254, effect aura: 13, which is wrong",
 0,
 },
 {
-"Sorting particles normally.",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14254, effect aura: 135, which is wrong",
 0,
 },
 {
-"Multithreaded rendering enabled.",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18050, effect aura: 13, which is wrong",
 0,
 },
 {
-"Multithreaded BeginDraw enabled.",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18050, effect aura: 135, which is wrong",
 0,
 },
 {
-"Multithread shadows changed to 1.",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 21362, effect aura: 85, which is wrong",
 0,
 },
 {
-"Multithreaded prepass enabled.",
+"Skill 228 increased from 314 to 315",
 0,
 },
 {
-"Multithreaded opaque pass enabled.",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15806, effect aura: 99, which is wrong",
 0,
 },
 {
-"Multithreaded opaque pass enabled.",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 15806, effect aura: 124, which is wrong",
 0,
 },
 {
-"Multithreaded alpha M2 pass enabled.",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14248, effect aura: 13, which is wrong",
 0,
 },
 {
-"Multithreaded opaque WMO pass enabled.",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14248, effect aura: 135, which is wrong",
 0,
 },
 {
-"Multithreaded terrain pass enabled.",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9334, effect aura: 99, which is wrong",
 0,
 },
 {
-"Multithreaded volumetric fog enabled.",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9334, effect aura: 124, which is wrong",
 0,
 },
 {
-"Multithreaded Refraction Pass enabled.",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9316, effect aura: 135, which is wrong",
 0,
 },
 {
-"Multithreaded miscellaneous passes enabled.",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 9316, effect aura: 13, which is wrong",
 0,
 },
 {
-"Multithreaded decal passes disabled.",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14254, effect aura: 13, which is wrong",
 0,
 },
 {
-"Multithreaded outline passes enabled.",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 14254, effect aura: 135, which is wrong",
 0,
 },
 {
-"Multithreaded lightshaft passes enabled.",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18050, effect aura: 13, which is wrong",
 0,
 },
 {
-"Multithreaded alpha pass enabled.",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 18050, effect aura: 135, which is wrong",
 0,
 },
 {
-"Multithreaded daynight update enabled.",
-0,
-},
-{
-"Water detail changed to 2",
-0,
-},
-{
-"Ripple detail changed to 1",
-0,
-},
-{
-"Reflection mode changed to 0",
-0,
-},
-{
-"Reflection downscale changed to 0",
-0,
-},
-{
-"Sunshafts quality changed to 1",
-0,
-},
-{
-"Projected textures enabled.",
-0,
-},
-{
-"Shadow mode changed to 2 - 2 band dynamic shadows on units and terrain, 1024",
-0,
-},
-{
-"Shadow texture size changed to 1024.",
-0,
-},
-{
-"Soft shadows changed to 0.",
-0,
-},
-{
-"Shadow cascade blending changed to 0",
-0,
-},
-{
-"Number of shadow cascades changed to 2",
-0,
-},
-{
-"Shadow RT mode changed to 0 (Disabled)",
-0,
-},
-{
-"maxLightCount must be in range 0 to 32.",
-0,
-},
-{
-"CVar 'maxLightCount' failed validation for its initial value.",
-0,
-},
-{
-"Clustered shading enabled.",
-0,
-},
-{
-"Not forcing clustered shading.",
-0,
-},
-{
-"SSAO mode set to 2",
-0,
-},
-{
-"SSAO type set to 0",
-0,
-},
-{
-"SkyCloudLOD set to 0",
-0,
-},
-{
-"Texture filtering mode updated.",
-0,
-},
-{
-"Terrain mip level changed to 0.",
-0,
-},
-{
-"Render scale changed to 1",
-0,
-},
-{
-"Resample quality changed to 3",
-0,
-},
-{
-"MSAA disabled",
-0,
-},
-{
-"MSAA for alpha-test enabled.",
-0,
-},
-{
-"VALAR mode changed to 0",
-0,
-},
-{
-"lodObjectSizeScale cannot be changed.",
-0,
-},
-{
-"dynamicLod enabled",
-0,
-},
-{
-"World preload object sort enabled.",
-0,
-},
-{
-"World load object sort enabled.",
-0,
-},
-{
-"World preload non critical enabled.",
-0,
-},
-{
-"World preload high res textures enabled.",
-0,
-},
-{
-"Terrain Blend Bake disabled.",
-0,
-},
-{
-"Terrain Unlit shader disabled.",
-0,
-},
-{
-"FFX: Color Blind Test Mode Disabled",
-0,
-},
-{
-"Error display disabled",
-0,
-},
-{
-"Error display shown",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Now filtering: all messages",
-0,
-},
-{
-"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"ChromaEffects disabled",
-0,
-},
-{
-"NetClient::HandleConnect()\n",
-0,
-},
-{
-"Got new connection 2",
-0,
-},
-{
-"[WowEntitlements] [BNetAccount-0-0000031CC835] [WowAccount-0-0000004652DA] Initialized with 11 entitlements.",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000000010",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000021",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000004010",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000084010",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000023",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000184010",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000184410",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000018c410",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000018c410",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000023",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 2/1/2026 (Sun) 17:37",
-0,
-},
-{
-"Gamespeed set from 0.017 to 0.017",
-0,
-},
-{
-"Time played:",
-0,
-},
-{
-"Total: 4d 16h 44m 54s",
-0,
-},
-{
-"Level: 4d 8h 4m 2s",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Sorting particles normally.",
-0,
-},
-{
-"Multithreaded rendering enabled.",
-0,
-},
-{
-"Multithreaded BeginDraw enabled.",
-0,
-},
-{
-"Multithread shadows changed to 1.",
-0,
-},
-{
-"Multithreaded prepass enabled.",
-0,
-},
-{
-"Multithreaded opaque pass enabled.",
-0,
-},
-{
-"Multithreaded opaque pass enabled.",
-0,
-},
-{
-"Multithreaded alpha M2 pass enabled.",
-0,
-},
-{
-"Multithreaded opaque WMO pass enabled.",
-0,
-},
-{
-"Multithreaded terrain pass enabled.",
-0,
-},
-{
-"Multithreaded volumetric fog enabled.",
-0,
-},
-{
-"Multithreaded Refraction Pass enabled.",
-0,
-},
-{
-"Multithreaded miscellaneous passes enabled.",
-0,
-},
-{
-"Multithreaded decal passes disabled.",
-0,
-},
-{
-"Multithreaded outline passes enabled.",
-0,
-},
-{
-"Multithreaded lightshaft passes enabled.",
-0,
-},
-{
-"Multithreaded alpha pass enabled.",
-0,
-},
-{
-"Multithreaded daynight update enabled.",
-0,
-},
-{
-"Water detail changed to 2",
-0,
-},
-{
-"Ripple detail changed to 1",
-0,
-},
-{
-"Reflection mode changed to 0",
-0,
-},
-{
-"Reflection downscale changed to 0",
-0,
-},
-{
-"Sunshafts quality changed to 1",
-0,
-},
-{
-"Projected textures enabled.",
-0,
-},
-{
-"Shadow mode changed to 2 - 2 band dynamic shadows on units and terrain, 1024",
-0,
-},
-{
-"Shadow texture size changed to 1024.",
-0,
-},
-{
-"Soft shadows changed to 0.",
-0,
-},
-{
-"Shadow cascade blending changed to 0",
-0,
-},
-{
-"Number of shadow cascades changed to 2",
-0,
-},
-{
-"Shadow RT mode changed to 0 (Disabled)",
-0,
-},
-{
-"maxLightCount must be in range 0 to 32.",
-0,
-},
-{
-"CVar 'maxLightCount' failed validation for its initial value.",
-0,
-},
-{
-"Clustered shading enabled.",
-0,
-},
-{
-"Not forcing clustered shading.",
-0,
-},
-{
-"SSAO mode set to 2",
-0,
-},
-{
-"SSAO type set to 0",
-0,
-},
-{
-"SkyCloudLOD set to 0",
-0,
-},
-{
-"Texture filtering mode updated.",
-0,
-},
-{
-"Terrain mip level changed to 0.",
-0,
-},
-{
-"Render scale changed to 1",
-0,
-},
-{
-"Resample quality changed to 3",
-0,
-},
-{
-"MSAA disabled",
-0,
-},
-{
-"MSAA for alpha-test enabled.",
-0,
-},
-{
-"VALAR mode changed to 0",
-0,
-},
-{
-"lodObjectSizeScale cannot be changed.",
-0,
-},
-{
-"dynamicLod enabled",
-0,
-},
-{
-"World preload object sort enabled.",
-0,
-},
-{
-"World load object sort enabled.",
-0,
-},
-{
-"World preload non critical enabled.",
-0,
-},
-{
-"World preload high res textures enabled.",
-0,
-},
-{
-"Terrain Blend Bake disabled.",
-0,
-},
-{
-"Terrain Unlit shader disabled.",
-0,
-},
-{
-"FFX: Color Blind Test Mode Disabled",
-0,
-},
-{
-"Error display disabled",
-0,
-},
-{
-"Error display shown",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Now filtering: all messages",
-0,
-},
-{
-"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"ChromaEffects disabled",
-0,
-},
-{
-"NetClient::HandleConnect()\n",
-0,
-},
-{
-"Got new connection 2",
-0,
-},
-{
-"[WowEntitlements] [BNetAccount-0-0000031CC835] [WowAccount-0-0000004652DA] Initialized with 11 entitlements.",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000000010",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000021",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000004010",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000084010",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000023",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000184010",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000184410",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000018c410",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000018c410",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000023",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 2/2/2026 (Mon) 6:39",
-0,
-},
-{
-"Gamespeed set from 0.017 to 0.017",
-0,
-},
-{
-"Time played:",
-0,
-},
-{
-"Total: 4d 16h 56m 18s",
-0,
-},
-{
-"Level: 4d 8h 15m 26s",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Sorting particles normally.",
-0,
-},
-{
-"Multithreaded rendering enabled.",
-0,
-},
-{
-"Multithreaded BeginDraw enabled.",
-0,
-},
-{
-"Multithread shadows changed to 1.",
-0,
-},
-{
-"Multithreaded prepass enabled.",
-0,
-},
-{
-"Multithreaded opaque pass enabled.",
-0,
-},
-{
-"Multithreaded opaque pass enabled.",
-0,
-},
-{
-"Multithreaded alpha M2 pass enabled.",
-0,
-},
-{
-"Multithreaded opaque WMO pass enabled.",
-0,
-},
-{
-"Multithreaded terrain pass enabled.",
-0,
-},
-{
-"Multithreaded volumetric fog enabled.",
-0,
-},
-{
-"Multithreaded Refraction Pass enabled.",
-0,
-},
-{
-"Multithreaded miscellaneous passes enabled.",
-0,
-},
-{
-"Multithreaded decal passes disabled.",
-0,
-},
-{
-"Multithreaded outline passes enabled.",
-0,
-},
-{
-"Multithreaded lightshaft passes enabled.",
-0,
-},
-{
-"Multithreaded alpha pass enabled.",
-0,
-},
-{
-"Multithreaded daynight update enabled.",
-0,
-},
-{
-"Water detail changed to 2",
-0,
-},
-{
-"Ripple detail changed to 1",
-0,
-},
-{
-"Reflection mode changed to 0",
-0,
-},
-{
-"Reflection downscale changed to 0",
-0,
-},
-{
-"Sunshafts quality changed to 1",
-0,
-},
-{
-"Projected textures enabled.",
-0,
-},
-{
-"Shadow mode changed to 2 - 2 band dynamic shadows on units and terrain, 1024",
-0,
-},
-{
-"Shadow texture size changed to 1024.",
-0,
-},
-{
-"Soft shadows changed to 0.",
-0,
-},
-{
-"Shadow cascade blending changed to 0",
-0,
-},
-{
-"Number of shadow cascades changed to 2",
-0,
-},
-{
-"Shadow RT mode changed to 0 (Disabled)",
-0,
-},
-{
-"maxLightCount must be in range 0 to 32.",
-0,
-},
-{
-"CVar 'maxLightCount' failed validation for its initial value.",
-0,
-},
-{
-"Clustered shading enabled.",
-0,
-},
-{
-"Not forcing clustered shading.",
-0,
-},
-{
-"SSAO mode set to 2",
-0,
-},
-{
-"SSAO type set to 0",
-0,
-},
-{
-"SkyCloudLOD set to 0",
-0,
-},
-{
-"Texture filtering mode updated.",
-0,
-},
-{
-"Terrain mip level changed to 0.",
-0,
-},
-{
-"Render scale changed to 1",
-0,
-},
-{
-"Resample quality changed to 3",
-0,
-},
-{
-"MSAA disabled",
-0,
-},
-{
-"MSAA for alpha-test enabled.",
-0,
-},
-{
-"VALAR mode changed to 0",
-0,
-},
-{
-"lodObjectSizeScale cannot be changed.",
-0,
-},
-{
-"dynamicLod enabled",
-0,
-},
-{
-"World preload object sort enabled.",
-0,
-},
-{
-"World load object sort enabled.",
-0,
-},
-{
-"World preload non critical enabled.",
-0,
-},
-{
-"World preload high res textures enabled.",
-0,
-},
-{
-"Terrain Blend Bake disabled.",
-0,
-},
-{
-"Terrain Unlit shader disabled.",
-0,
-},
-{
-"FFX: Color Blind Test Mode Disabled",
-0,
-},
-{
-"Error display disabled",
-0,
-},
-{
-"Error display shown",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Now filtering: all messages",
-0,
-},
-{
-"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"ChromaEffects disabled",
-0,
-},
-{
-"NetClient::HandleConnect()\n",
-0,
-},
-{
-"Got new connection 2",
-0,
-},
-{
-"[WowEntitlements] [BNetAccount-0-0000031CC835] [WowAccount-0-0000004652DA] Initialized with 11 entitlements.",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000000010",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000021",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000004010",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000084010",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000023",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000184010",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000184410",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000018c410",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000018c410",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000023",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 2/3/2026 (Tue) 6:09",
-0,
-},
-{
-"Gamespeed set from 0.017 to 0.017",
-0,
-},
-{
-"Time played:",
-0,
-},
-{
-"Total: 4d 17h 20m 51s",
-0,
-},
-{
-"Level: 4d 8h 39m 59s",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 3, intensity 0.300000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 3, intensity 0.300000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
+"CGast - CGItemStatsSummary::ParseSpellRec is being called for spellID: 21362, effect aura: 85, which is wrong",
 0,
 },
 {
@@ -3662,354 +4007,9 @@ Blizzard_Console_SavedVars = {
 "-------------------------------------------------- Previous Session --------------------------------------------------",
 0,
 },
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
 },
-{
-"Sorting particles normally.",
-0,
-},
-{
-"Multithreaded rendering enabled.",
-0,
-},
-{
-"Multithreaded BeginDraw enabled.",
-0,
-},
-{
-"Multithread shadows changed to 1.",
-0,
-},
-{
-"Multithreaded prepass enabled.",
-0,
-},
-{
-"Multithreaded opaque pass enabled.",
-0,
-},
-{
-"Multithreaded opaque pass enabled.",
-0,
-},
-{
-"Multithreaded alpha M2 pass enabled.",
-0,
-},
-{
-"Multithreaded opaque WMO pass enabled.",
-0,
-},
-{
-"Multithreaded terrain pass enabled.",
-0,
-},
-{
-"Multithreaded volumetric fog enabled.",
-0,
-},
-{
-"Multithreaded Refraction Pass enabled.",
-0,
-},
-{
-"Multithreaded miscellaneous passes enabled.",
-0,
-},
-{
-"Multithreaded decal passes disabled.",
-0,
-},
-{
-"Multithreaded outline passes enabled.",
-0,
-},
-{
-"Multithreaded lightshaft passes enabled.",
-0,
-},
-{
-"Multithreaded alpha pass enabled.",
-0,
-},
-{
-"Multithreaded daynight update enabled.",
-0,
-},
-{
-"Water detail changed to 2",
-0,
-},
-{
-"Ripple detail changed to 1",
-0,
-},
-{
-"Reflection mode changed to 0",
-0,
-},
-{
-"Reflection downscale changed to 0",
-0,
-},
-{
-"Sunshafts quality changed to 1",
-0,
-},
-{
-"Projected textures enabled.",
-0,
-},
-{
-"Shadow mode changed to 2 - 2 band dynamic shadows on units and terrain, 1024",
-0,
-},
-{
-"Shadow texture size changed to 1024.",
-0,
-},
-{
-"Soft shadows changed to 0.",
-0,
-},
-{
-"Shadow cascade blending changed to 0",
-0,
-},
-{
-"Number of shadow cascades changed to 2",
-0,
-},
-{
-"Shadow RT mode changed to 0 (Disabled)",
-0,
-},
-{
-"maxLightCount must be in range 0 to 32.",
-0,
-},
-{
-"CVar 'maxLightCount' failed validation for its initial value.",
-0,
-},
-{
-"Clustered shading enabled.",
-0,
-},
-{
-"Not forcing clustered shading.",
-0,
-},
-{
-"SSAO mode set to 2",
-0,
-},
-{
-"SSAO type set to 0",
-0,
-},
-{
-"SkyCloudLOD set to 0",
-0,
-},
-{
-"Texture filtering mode updated.",
-0,
-},
-{
-"Terrain mip level changed to 0.",
-0,
-},
-{
-"Render scale changed to 0.9",
-0,
-},
-{
-"Resample quality changed to 3",
-0,
-},
-{
-"MSAA disabled",
-0,
-},
-{
-"MSAA for alpha-test enabled.",
-0,
-},
-{
-"VALAR mode changed to 0",
-0,
-},
-{
-"lodObjectSizeScale cannot be changed.",
-0,
-},
-{
-"dynamicLod enabled",
-0,
-},
-{
-"World preload object sort enabled.",
-0,
-},
-{
-"World load object sort enabled.",
-0,
-},
-{
-"World preload non critical enabled.",
-0,
-},
-{
-"World preload high res textures enabled.",
-0,
-},
-{
-"Terrain Blend Bake disabled.",
-0,
-},
-{
-"Terrain Unlit shader disabled.",
-0,
-},
-{
-"FFX: Color Blind Test Mode Disabled",
-0,
-},
-{
-"Error display disabled",
-0,
-},
-{
-"Error display shown",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Now filtering: all messages",
-0,
-},
-{
-"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"ChromaEffects disabled",
-0,
-},
-{
-"NetClient::HandleConnect()\n",
-0,
-},
-{
-"Got new connection 2",
-0,
-},
-{
-"[WowEntitlements] [BNetAccount-0-0000031CC835] [WowAccount-0-0000004652DA] Initialized with 11 entitlements.",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000000010",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000021",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000004010",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000084010",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000023",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000184010",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000184410",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000018c410",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000018c410",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000023",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 2/3/2026 (Tue) 7:21",
-0,
-},
-{
-"Gamespeed set from 0.017 to 0.017",
-0,
-},
-{
-"Time played:",
-0,
-},
-{
-"Total: 4d 17h 51m 7s",
-0,
-},
-{
-"Level: 4d 9h 10m 15s",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-},
-["height"] = 300,
-["fontHeight"] = 14,
 ["isShown"] = false,
+["fontHeight"] = 14,
 ["commandHistory"] = {
 },
 }

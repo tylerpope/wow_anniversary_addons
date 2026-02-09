@@ -1,6 +1,7 @@
 
 Details_StreamerDB = {
 ["characters"] = {
+["Blickbank - Nightslayer"] = "Shadowblick - Nightslayer",
 ["Shadowblick - Nightslayer"] = "Shadowblick - Nightslayer",
 },
 ["profiles"] = {
@@ -28,7 +29,7 @@ Details_StreamerDB = {
 ["author"] = "Terciob",
 ["row_texture"] = "Details Serenity",
 ["square_grow_direction"] = "right",
-["y"] = 7.62939453125e-05,
+["y"] = -4.57763671875e-05,
 ["row_color"] = {
 0.1,
 0.1,
@@ -44,7 +45,7 @@ Details_StreamerDB = {
 ["scale"] = 1,
 ["font_shadow"] = true,
 ["y"] = 1.52587890625e-05,
-["x"] = 0.011016845703125,
+["x"] = 0.007537841796875,
 ["attribute_type"] = 1,
 ["update_speed"] = 0.05,
 ["size"] = 32,

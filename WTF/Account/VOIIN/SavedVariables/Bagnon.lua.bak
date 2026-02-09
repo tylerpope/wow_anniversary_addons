@@ -5,6 +5,16 @@ Bagnon_Sets = {
 },
 ["global"] = {
 ["inventory"] = {
+["brokerObject"] = "BagnonLauncher",
+["point"] = "BOTTOMRIGHT",
+["color"] = {
+},
+["y"] = 167.1862182617188,
+["x"] = -36.14603678385424,
+["borderColor"] = {
+},
+["activeRules"] = {
+},
 ["rules"] = {
 ["sidebar"] = {
 "all",
@@ -12,16 +22,6 @@ Bagnon_Sets = {
 "trade",
 },
 },
-["point"] = "BOTTOMRIGHT",
-["color"] = {
-},
-["y"] = 167.1862182617188,
-["x"] = -36.1458740234375,
-["borderColor"] = {
-},
-["activeRules"] = {
-},
-["brokerObject"] = "BagnonLauncher",
 },
 ["vault"] = {
 ["rules"] = {
@@ -43,16 +43,7 @@ Bagnon_Sets = {
 },
 ["guild"] = {
 ["y"] = 314.2012939453125,
-["rules"] = {
-["sidebar"] = {
-"all",
-"tradegoods",
-"consumable",
-"armor",
-"questitem",
-"miscellaneous",
-},
-},
+["x"] = 606.5800170898438,
 ["point"] = "BOTTOMLEFT",
 ["borderColor"] = {
 },
@@ -60,18 +51,6 @@ Bagnon_Sets = {
 },
 ["activeRules"] = {
 },
-["x"] = 606.5800170898438,
-},
-["bank"] = {
-["y"] = -276.7012329101563,
-["x"] = 95.00000762939453,
-["point"] = "TOPLEFT",
-["borderColor"] = {
-},
-["color"] = {
-},
-["activeRules"] = {
-},
 ["rules"] = {
 ["sidebar"] = {
 "all",
@@ -81,6 +60,28 @@ Bagnon_Sets = {
 "questitem",
 "miscellaneous",
 },
+},
+},
+["bank"] = {
+["rules"] = {
+["sidebar"] = {
+"all",
+"tradegoods",
+"consumable",
+"armor",
+"questitem",
+"miscellaneous",
+},
+},
+["point"] = "TOPLEFT",
+["color"] = {
+},
+["y"] = -276.7012329101563,
+["x"] = 95.00000762939453,
+["showBags"] = true,
+["activeRules"] = {
+},
+["borderColor"] = {
 },
 },
 },
@@ -89,33 +90,33 @@ Bagnon_Sets = {
 ["color"] = {
 ["quiver"] = {
 },
-["account"] = {
+["herb"] = {
 },
-["enchant"] = {
+["normal"] = {
 },
 ["soul"] = {
 },
-["fridge"] = {
+["leather"] = {
 },
 ["mine"] = {
 },
-["engineer"] = {
+["gem"] = {
 },
-["leather"] = {
+["inscribe"] = {
 },
 ["reagent"] = {
 },
-["gem"] = {
+["engineer"] = {
 },
 ["key"] = {
 },
 ["tackle"] = {
 },
-["inscribe"] = {
+["fridge"] = {
 },
-["normal"] = {
+["enchant"] = {
 },
-["herb"] = {
+["account"] = {
 },
 },
 ["display"] = {

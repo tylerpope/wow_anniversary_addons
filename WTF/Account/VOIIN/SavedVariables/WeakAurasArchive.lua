@@ -11,7 +11,7 @@ WeakAurasArchive = {
 ["data"] = "lUIlj)IsTyRuZiD0rnd1bWp",
 },
 ["history"] = {
-["timestamp"] = 1769963637,
+["timestamp"] = 1770303528,
 ["version"] = 1,
 ["data"] = "lUIlj)IsTyRuZiD0rnd1bWp",
 },

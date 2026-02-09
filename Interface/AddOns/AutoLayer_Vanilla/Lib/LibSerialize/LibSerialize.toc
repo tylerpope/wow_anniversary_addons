@@ -2,7 +2,7 @@
 ## Title: Lib: LibSerialize
 ## Notes: LibSerialize is a Lua library for efficiently serializing/deserializing arbitrary values
 ## Author: Ross Nichols
-## Version: 1.7.4-release
+## Version: 1.7.5-release
 ## X-Category: Library
 ## X-License: MIT
 

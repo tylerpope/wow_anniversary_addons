@@ -291,6 +291,61 @@ local options = {
 				},
 			},
 		},
+		loot = {
+			type = "group",
+			name = "Loot Settings",
+			inline = true,
+			order = 3,
+			args = {
+				overrideLootSettings = {
+					type = "toggle",
+					name = "Override Loot Settings",
+					desc = "Automatically set desired loot method and threshold when new players join the party.",
+					set = function(info, val)
+						AutoLayer.db.profile.overrideLootSettings = val
+					end,
+					get = function(info)
+						return AutoLayer.db.profile.overrideLootSettings
+					end,
+					order = 1,
+				},
+				lootMethod = {
+					type = "select",
+					name = "Loot Method",
+					desc = "Select the loot method to set when new players join the party.",
+					values = {
+						[0] = "Free For All",
+						[1] = "Round Robin",
+						[3] = "Group Loot",
+						[4] = "Need Before Greed",
+					},
+					set = function(info, val)
+						AutoLayer.db.profile.lootMethod = val
+					end,
+					get = function(info)
+						return AutoLayer.db.profile.lootMethod
+					end,
+					order = 2,
+				},
+				lootThreshold = {
+					type = "select",
+					name = "Loot Threshold (for Group Loot)",
+					desc = "Select the loot threshold to set when using group loot method.",
+					values = {
+						[2] = "|cff1EFF00Uncommon|r",
+						[3] = "|cff0070DDRare|r",
+						[4] = "|cffA335EEEpic|r",
+					},
+					set = function(info, val)
+						AutoLayer.db.profile.lootThreshold = val
+					end,
+					get = function(info)
+						return AutoLayer.db.profile.lootThreshold
+					end,
+					order = 3,
+				},
+			},
+		}
 	},
 }
 
@@ -310,6 +365,9 @@ local defaults = {
 		guildOnly = false,
 		hideAutoWhispers = true,
 		hideSystemGroupMessages = true,
+		overrideLootSettings = false,
+		lootMethod = 0,
+		lootThreshold = 2,
 		layered = 0,
 		minimap = {
 			hide = false,
@@ -374,6 +432,11 @@ local systemMessages = {
 	ERR_ALREADY_IN_GROUP_S,
 	ERR_GROUP_FULL,
 	ERR_NOT_IN_GROUP,
+	ERR_SET_LOOT_FREEFORALL,
+	ERR_SET_LOOT_GROUP,
+	ERR_SET_LOOT_ROUNDROBIN,
+	ERR_SET_LOOT_NBG,
+	ERR_SET_LOOT_THRESHOLD_S,
 }
 
 local function matchesAnySystemMessage(msg)
@@ -398,9 +461,13 @@ function AutoLayer:OnInitialize()
 	local AceConfigDialog = LibStub("AceConfigDialog-3.0")
 	AceConfigDialog:SetDefaultSize("AutoLayer", 600, 500)
 	
-	-- Register slash commands to open options
-	self:RegisterChatCommand("autolayer", function()
-		AceConfigDialog:Open("AutoLayer")
+	-- Register slash commands
+	self:RegisterChatCommand("autolayer", function(input)
+		if input == "" then
+			AceConfigDialog:Open("AutoLayer")
+		else
+			AutoLayer:SlashCommand(input)
+		end
 	end)
 	self:RegisterChatCommand("al", function()
 		AceConfigDialog:Open("AutoLayer")
@@ -504,6 +571,24 @@ function AutoLayer:filterChatEventSystemGroupMessages()
 end
 function AutoLayer:unfilterChatEventSystemGroupMessages()
 	ChatFrame_RemoveMessageEventFilter("CHAT_MSG_SYSTEM", systemFilter)
+end
+
+function AutoLayer:SlashCommand(input)
+	local command = self:GetArgs(input, 1)
+
+	if command == "help" then
+		return AutoLayer:SlashCommandHelp()
+	elseif command == "req" then
+		return AutoLayer:SlashCommandRequest(input)
+	else
+		return self:Print("Unknown command " .. command .. ". Type /autolayer help for a list of commands.")
+	end
+end
+
+function AutoLayer:SlashCommandHelp()
+	self:Print("AutoLayer Slash Commands:")
+	self:Print("/autolayer or /al - Open the AutoLayer settings GUI.")
+	self:Print("/autolayer req [layers] - Send a layer hop request via chat. '[layers]' is a comma-separated list of layer numbers to request. If omitted, requests all layers except the current one.")
 end
 
 function AutoLayer:DebugPrint(...)

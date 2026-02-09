@@ -1,17 +1,24 @@
 
 AutoLayerDB = {
 ["profileKeys"] = {
-["Sapdeez - Dreamscythe"] = "Sapdeez - Dreamscythe",
+["Blickbank - Nightslayer"] = "Blickbank - Nightslayer",
 ["Shadowblick - Nightslayer"] = "Shadowblick - Nightslayer",
+["Sapdeez - Dreamscythe"] = "Sapdeez - Dreamscythe",
 },
 ["profiles"] = {
-["Sapdeez - Dreamscythe"] = {
+["Blickbank - Nightslayer"] = {
+["enabled"] = false,
+["minimap"] = {
+["minimapPos"] = 67.17412017895082,
+},
 },
 ["Shadowblick - Nightslayer"] = {
 ["enabled"] = false,
 ["minimap"] = {
-["minimapPos"] = 65.55200006219722,
+["minimapPos"] = 63.87402781924878,
 },
+},
+["Sapdeez - Dreamscythe"] = {
 },
 },
 }

@@ -1,8 +1,103 @@
 
 Bartender4DB = {
 ["namespaces"] = {
+["StatusTrackingBar"] = {
+["profiles"] = {
+["Blickbank - Nightslayer"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 72,
+["x"] = -519,
+["point"] = "BOTTOM",
+},
+},
+["Shadowblick - Nightslayer"] = {
+["enabled"] = true,
+["position"] = {
+["y"] = 14.50000476837158,
+["x"] = -1.999983549118042,
+["point"] = "BOTTOMLEFT",
+["scale"] = 0.6,
+},
+["version"] = 3,
+},
+},
+},
 ["ActionBars"] = {
 ["profiles"] = {
+["Blickbank - Nightslayer"] = {
+["actionbars"] = {
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 41.75,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -228.5,
+["x"] = -230.499755859375,
+["point"] = "CENTER",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -82,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 5,
+["rows"] = 12,
+["version"] = 3,
+["position"] = {
+["y"] = 610,
+["x"] = -42,
+["point"] = "BOTTOMRIGHT",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = 3,
+["point"] = "BOTTOM",
+},
+},
+{
+["padding"] = 6,
+["version"] = 3,
+["position"] = {
+["y"] = 110,
+["x"] = -510,
+["point"] = "BOTTOM",
+},
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[13] = {
+},
+[15] = {
+},
+},
+},
 ["Shadowblick - Nightslayer"] = {
 ["actionbars"] = {
 {
@@ -30,17 +125,14 @@ Bartender4DB = {
 },
 },
 {
-["rows"] = 12,
-["buttons"] = 3,
 ["version"] = 3,
 ["position"] = {
-["y"] = 117,
-["x"] = -277.9930419921875,
+["y"] = 157.5333557128906,
+["x"] = -230.4998779296875,
 ["point"] = "BOTTOM",
 },
 },
 {
-["enabled"] = false,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 119.64453125,
@@ -82,6 +174,14 @@ Bartender4DB = {
 },
 ["ExtraActionBar"] = {
 ["profiles"] = {
+["Blickbank - Nightslayer"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -224.4999694824219,
+["x"] = -63.499755859375,
+["point"] = "CENTER",
+},
+},
 ["Shadowblick - Nightslayer"] = {
 ["position"] = {
 ["y"] = 153.9999694824219,
@@ -94,6 +194,16 @@ Bartender4DB = {
 },
 ["MicroMenu"] = {
 ["profiles"] = {
+["Blickbank - Nightslayer"] = {
+["padding"] = -2,
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 33,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
 ["Shadowblick - Nightslayer"] = {
 ["position"] = {
 ["y"] = 70.00001935362843,
@@ -107,6 +217,16 @@ Bartender4DB = {
 },
 ["BagBar"] = {
 ["profiles"] = {
+["Blickbank - Nightslayer"] = {
+["verticalAlignment"] = "CENTER",
+["padding"] = 5,
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = 295,
+["point"] = "BOTTOM",
+},
+},
 ["Shadowblick - Nightslayer"] = {
 ["version"] = 3,
 ["position"] = {
@@ -117,8 +237,37 @@ Bartender4DB = {
 },
 },
 },
+["BlizzardArt"] = {
+["profiles"] = {
+["Blickbank - Nightslayer"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 47,
+["x"] = -512,
+["point"] = "BOTTOM",
+},
+},
+["Shadowblick - Nightslayer"] = {
+["position"] = {
+["y"] = 99.99999237060547,
+["x"] = -113.7777557373047,
+["point"] = "BOTTOMLEFT",
+},
+["version"] = 3,
+},
+},
+},
 ["StanceBar"] = {
 ["profiles"] = {
+["Blickbank - Nightslayer"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99998474121094,
+["x"] = -82.49993896484375,
+["point"] = "CENTER",
+},
+},
 ["Shadowblick - Nightslayer"] = {
 ["version"] = 3,
 ["position"] = {
@@ -131,6 +280,14 @@ Bartender4DB = {
 },
 ["PetBar"] = {
 ["profiles"] = {
+["Blickbank - Nightslayer"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 143,
+["x"] = -460,
+["point"] = "BOTTOM",
+},
+},
 ["Shadowblick - Nightslayer"] = {
 ["version"] = 3,
 ["position"] = {
@@ -143,6 +300,14 @@ Bartender4DB = {
 },
 ["Vehicle"] = {
 ["profiles"] = {
+["Blickbank - Nightslayer"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42.50003051757813,
+["x"] = 104.500244140625,
+["point"] = "CENTER",
+},
+},
 ["Shadowblick - Nightslayer"] = {
 ["position"] = {
 ["y"] = 178,
@@ -155,10 +320,22 @@ Bartender4DB = {
 },
 },
 ["profileKeys"] = {
+["Blickbank - Nightslayer"] = "Blickbank - Nightslayer",
 ["Shadowblick - Nightslayer"] = "Shadowblick - Nightslayer",
 },
 ["profiles"] = {
+["Blickbank - Nightslayer"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["minimapIcon"] = {
+["minimapPos"] = 132.0140871378168,
+},
+["outofrange"] = "hotkey",
+},
 ["Shadowblick - Nightslayer"] = {
+["minimapIcon"] = {
+["minimapPos"] = 353.2437987766128,
+},
 },
 },
 }

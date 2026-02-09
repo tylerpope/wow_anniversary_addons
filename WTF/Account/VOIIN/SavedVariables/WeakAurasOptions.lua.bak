@@ -47353,13 +47353,13 @@ WeakAurasOptionsSaved = {
 ["locale"] = "enUS",
 ["needsRebuild"] = false,
 ["version"] = "5.21.1",
+["spellCacheStrings"] = true,
 ["frame"] = {
 ["xOffset"] = 707.28759765625,
-["width"] = 830,
-["height"] = 665.0001220703125,
 ["yOffset"] = 1016.178161621094,
+["height"] = 665.0001220703125,
+["width"] = 830,
 },
-["spellCacheStrings"] = true,
 ["spellCacheAchievements"] = true,
 ["build"] = "65534",
 }

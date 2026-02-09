@@ -1,59 +1,52 @@
-lightweight tag 39f542b6273acbc8685e518d0de0ec5e34d43eb1 1.7.4-release
+lightweight tag ccdcaf4016e19bcab37cf851579d79f298e3c38d 1.7.5-release
 Author:	GitHub <noreply@github.com>
-Date:	Sun Feb 1 02:41:00 2026 +0100
+Date:	Sun Feb 8 13:13:46 2026 +0100
 
-commit d2057912c5514e6ddd0e4c9fdc92fd2565d32d09
-Author: Jungle <67191369+Jungleonly1740@users.noreply.github.com>
-Date:   Sat Jan 31 18:08:38 2026 +0100
-
-    fix bug found while testing
-    
-    - fixed bug with channel join logic
-
-commit d2057912c5514e6ddd0e4c9fdc92fd2565d32d09
-Author: Jungle <67191369+Jungleonly1740@users.noreply.github.com>
-Date:   Sat Jan 31 18:08:38 2026 +0100
-
-    fix bug found while testing
-    
-    - fixed bug with channel join logic
-
-commit daaf3cda27b5a99fe99fd994864057d8838e1b8b
-Author: Jungle <67191369+Jungleonly1740@users.noreply.github.com>
-Date:   Sat Jan 31 15:52:11 2026 +0100
-
-    Add static "layer" fallback channel, remove retry logic
-    
-    - Join static "layer" + 3 dynamic channels (4 total)
-    - Only attempt each channel once per session (no retries)
-    - Reduces password popup spam from 3x to 1x per protected channel
-
-commit e36b8634168f489ab95f1ae77baff40898ee1cb7
+commit d8851992778a3c4e1c358f6cca14e4ed85d2939a
 Author: Jan Dorsman <160809113+jdorsman@users.noreply.github.com>
-Date:   Sat Jan 31 14:41:48 2026 +0100
+Date:   Fri Feb 6 16:47:51 2026 +0100
 
-    Bump version
+    Fix auto-kick action
 
-commit e36b8634168f489ab95f1ae77baff40898ee1cb7
+commit d8851992778a3c4e1c358f6cca14e4ed85d2939a
 Author: Jan Dorsman <160809113+jdorsman@users.noreply.github.com>
-Date:   Sat Jan 31 14:41:48 2026 +0100
+Date:   Fri Feb 6 16:47:51 2026 +0100
 
-    Bump version
+    Fix auto-kick action
 
-commit 2cc9523866e30c5680c8b1aaad1e7d9164c2613d
-Author: Jungle <67191369+Jungleonly1740@users.noreply.github.com>
-Date:   Sat Jan 31 13:01:52 2026 +0100
+commit d8851992778a3c4e1c358f6cca14e4ed85d2939a
+Author: Jan Dorsman <160809113+jdorsman@users.noreply.github.com>
+Date:   Fri Feb 6 16:47:51 2026 +0100
 
-    Add dynamic channel names with date-based hashing
-    
-    - Channel names now use hash of realm+date (e.g., layer62e20711)
-    - Channels change daily, preventing griefers from pre-claiming them
-    - Auto-cleanup of old layer channels from previous days
-    - Fallback to static channels if LibDeflate unavailable
+    Fix auto-kick action
 
-commit 5d26df63c88dc64fcbc8531b5dd766f0bd83e5ea
-Author: Jungle <67191369+Jungleonly1740@users.noreply.github.com>
-Date:   Sat Jan 31 12:03:05 2026 +0100
+commit d8851992778a3c4e1c358f6cca14e4ed85d2939a
+Author: Jan Dorsman <160809113+jdorsman@users.noreply.github.com>
+Date:   Fri Feb 6 16:47:51 2026 +0100
 
-    Add fallback layer channels (layer2, layer3) to prevent griefing
+    Fix auto-kick action
+
+commit d8851992778a3c4e1c358f6cca14e4ed85d2939a
+Author: Jan Dorsman <160809113+jdorsman@users.noreply.github.com>
+Date:   Fri Feb 6 16:47:51 2026 +0100
+
+    Fix auto-kick action
+
+commit e9a248664d716c0386e9aaf20e057407424be0e0
+Author: Jan Dorsman <160809113+jdorsman@users.noreply.github.com>
+Date:   Fri Feb 6 16:32:06 2026 +0100
+
+    Add color codes to threshold options
+
+commit 7011ffd7e70f4d8c95b801fc3bdc90f61da52d49
+Author: Jan Dorsman <160809113+jdorsman@users.noreply.github.com>
+Date:   Fri Feb 6 15:04:53 2026 +0100
+
+    Only change loot settings when group leader
+
+commit 33bd7b54051fefc53408c89c6da453b0faad21f3
+Author: Jan Dorsman <160809113+jdorsman@users.noreply.github.com>
+Date:   Fri Feb 6 13:34:20 2026 +0100
+
+    Allow player to override default loot method and threshold
 

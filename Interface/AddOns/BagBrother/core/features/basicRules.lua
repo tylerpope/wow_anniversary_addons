@@ -51,3 +51,21 @@ do
 		Rules:Register {id = ids[1]:lower(), title = C.Item.GetItemClassInfo(Enum.ItemClass[ids[1]]), icon = icon, macro = belongsToClass(ids)}
 	end
 end
+
+if C.EquipmentSet.GetEquipmentSetIDs then
+	local function registerSets()
+		for id in Rules:Iterate() do
+			if string.sub(id, 1, 4) == 'set#' then
+				Rules:Unregister(id)
+			end
+		end
+		
+		for _, setID in pairs(C.EquipmentSet.GetEquipmentSetIDs()) do
+			local name, icon = C.EquipmentSet.GetEquipmentSetInfo(setID)
+			Rules:Register {id = 'set#' .. setID, title = name, icon = icon, search = 'set:' .. name, equipSet = setID}
+		end
+	end
+
+	Rules:RegisterEvent('EQUIPMENT_SETS_CHANGED', registerSets)
+	EventUtil.ContinueOnPlayerLogin(registerSets)
+end

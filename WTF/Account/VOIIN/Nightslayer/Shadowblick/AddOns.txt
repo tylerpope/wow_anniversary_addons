@@ -24,3 +24,6 @@ kExtraBossFrames: disabled
 Bagnon: enabled
 WeakAurasCompanion: enabled
 WeakAurasArchive: enabled
+NovaWorldBuffs: disabled
+AutoLayer_Vanilla: disabled
+NovaSpellRankChecker: disabled

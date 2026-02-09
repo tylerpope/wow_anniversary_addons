@@ -11,5 +11,5 @@ FrameLevel: 1
 Anchor: TOP
 X: 0
 Y: 0
-W: 610
-H: 438
+W: 1024
+H: 768

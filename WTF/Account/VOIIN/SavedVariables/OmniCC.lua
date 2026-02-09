@@ -1,11 +1,12 @@
 
 OmniCCDB = {
-["profileKeys"] = {
-["Shadowblick - Nightslayer"] = "Default",
-},
 ["global"] = {
 ["dbVersion"] = 6,
 ["addonVersion"] = "11.2.8",
+},
+["profileKeys"] = {
+["Blickbank - Nightslayer"] = "Default",
+["Shadowblick - Nightslayer"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -43,9 +44,9 @@ OmniCCDB = {
 ["textStyles"] = {
 ["seconds"] = {
 },
-["minutes"] = {
-},
 ["soon"] = {
+},
+["minutes"] = {
 },
 },
 },
